@@ -2,9 +2,9 @@
 Final project for PUBH 7462 (Spring 2025)
 
 1) Author: Chris Nieters
-2) Name of product: Spectroradiometer Explorer Shiny App or R package
+2) Name of product: Spectroradiometer Data Explorer Shiny App or R package
 3) Product type: Shiny App or R package
-4) Product purpose: what is the main purpose of your app? To provide easy conversions and calculations for spectroradiometer data that researchers and plant producers need to accurately characterize their lighting conditions
+4) Product purpose:To provide easy conversions and calculations for spectroradiometer data that researchers and plant producers need to accurately characterize their lighting conditions for experiments or production environments
 5) Data sources: publically available ASTM G173-03 Reference Spectra (SMARTS v. 2.9.2) and example LED spectrum will be provided from a commonly used blue and red light fixture
 6) Product features: Watts/m^2 to umol/m^2/s conversion, calculation of full-width half-max of an emission source, color fraction calculator, photon flux density calculator, daily light integral calculator
 7) Automation [if applicable]: not applicable
